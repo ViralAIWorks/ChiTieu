@@ -1,0 +1,22 @@
+D:\Video\Compressed\suning\suning\bin\Debug\suning.exe.config
+D:\Video\Compressed\suning\suning\bin\Debug\suning.exe
+D:\Video\Compressed\suning\suning\bin\Debug\suning.pdb
+D:\Video\Compressed\suning\suning\obj\Debug\suning.csprojAssemblyReference.cache
+D:\Video\Compressed\suning\suning\obj\Debug\suning.srm.resources
+D:\Video\Compressed\suning\suning\obj\Debug\suning.Properties.Resources.resources
+D:\Video\Compressed\suning\suning\obj\Debug\suning.csproj.GenerateResource.cache
+D:\Video\Compressed\suning\suning\obj\Debug\suning.csproj.CoreCompileInputs.cache
+D:\Video\Compressed\suning\suning\obj\Debug\suning.exe
+D:\Video\Compressed\suning\suning\obj\Debug\suning.pdb
+C:\Users\minhtri\Desktop\Cơ Sở Lập Trình\Chi tiêu\suning\bin\Debug\suning.exe.config
+C:\Users\minhtri\Desktop\Cơ Sở Lập Trình\Chi tiêu\suning\bin\Debug\suning.exe
+C:\Users\minhtri\Desktop\Cơ Sở Lập Trình\Chi tiêu\suning\bin\Debug\suning.pdb
+C:\Users\minhtri\Desktop\Cơ Sở Lập Trình\Chi tiêu\suning\obj\Debug\suning.csprojAssemblyReference.cache
+C:\Users\minhtri\Desktop\Cơ Sở Lập Trình\Chi tiêu\suning\obj\Debug\suning.srm.resources
+C:\Users\minhtri\Desktop\Cơ Sở Lập Trình\Chi tiêu\suning\obj\Debug\suning.Properties.Resources.resources
+C:\Users\minhtri\Desktop\Cơ Sở Lập Trình\Chi tiêu\suning\obj\Debug\suning.csproj.GenerateResource.cache
+C:\Users\minhtri\Desktop\Cơ Sở Lập Trình\Chi tiêu\suning\obj\Debug\suning.csproj.CoreCompileInputs.cache
+C:\Users\minhtri\Desktop\Cơ Sở Lập Trình\Chi tiêu\suning\obj\Debug\suning.exe
+C:\Users\minhtri\Desktop\Cơ Sở Lập Trình\Chi tiêu\suning\obj\Debug\suning.pdb
+D:\Github\Project\Chi tiêu\Chi tiêu\suning\obj\Debug\suning.exe
+D:\Github\Project\Chi tiêu\Chi tiêu\suning\obj\Debug\suning.pdb
